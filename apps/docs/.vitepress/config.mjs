@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "FrameKit SDK",
   description: "Headless Media SDK Documentation",
-  "outDir":'./dist',
+  "outDir":'../../dist',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
